@@ -1,0 +1,7 @@
+E:\prog\cs\Pattern\Command\Command\Command\bin\Debug\Command.exe.config
+E:\prog\cs\Pattern\Command\Command\Command\bin\Debug\Command.exe
+E:\prog\cs\Pattern\Command\Command\Command\bin\Debug\Command.pdb
+E:\prog\cs\Pattern\Command\Command\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+E:\prog\cs\Pattern\Command\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+E:\prog\cs\Pattern\Command\Command\Command\obj\Debug\Command.exe
+E:\prog\cs\Pattern\Command\Command\Command\obj\Debug\Command.pdb
